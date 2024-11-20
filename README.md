@@ -127,7 +127,7 @@ streamlit run app.py
 ## 💡 **How to Use**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/image-caption-generator.git
+   git clone https://github.com/HelpRam/Image_caption_generator.git
    ```
 2. **Install Dependencies**:
    ```bash
